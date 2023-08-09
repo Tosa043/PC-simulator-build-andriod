@@ -1,1 +1,0 @@
-# PC-simulator-build-andriod
